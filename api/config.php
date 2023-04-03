@@ -1,6 +1,6 @@
 <?php
    define('DBUSER','aquera');
    define('DBPWD','aquera1234');
-   define('DBHOST','https://www.db4free.net/');
+   define('DBHOST','db4free.net:3306/aquera');
    define('DBNAME','aquera');
 ?>
